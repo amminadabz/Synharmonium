@@ -2565,44 +2565,4 @@ Wire Wire Line
 Connection ~ 1450 1900
 Wire Wire Line
 	1450 1900 1450 5000
-Text GLabel 1450 5000 3    50   Output ~ 0
-ROW0
-Text GLabel 1650 5000 3    50   Output ~ 0
-ROW1
-Text GLabel 1850 5000 3    50   Output ~ 0
-ROW2
-Text GLabel 2050 5000 3    50   Output ~ 0
-ROW3
-Text GLabel 2250 5000 3    50   Output ~ 0
-ROW4
-Text GLabel 2450 5000 3    50   Output ~ 0
-ROW5
-Text GLabel 2800 5000 3    50   Output ~ 0
-ROW6
-Text GLabel 3000 5000 3    50   Output ~ 0
-COL0
-Text GLabel 3150 5000 3    50   Output ~ 0
-COL1
-Text GLabel 3650 5000 3    50   Output ~ 0
-COL2
-Text GLabel 4150 5000 3    50   Output ~ 0
-COL3
-Text GLabel 4650 5000 3    50   Output ~ 0
-COL4
-Text GLabel 5300 5000 3    50   Output ~ 0
-COL5
-Text GLabel 5650 5000 3    50   Output ~ 0
-COL6
-Text GLabel 6150 5000 3    50   Output ~ 0
-COL7
-Text GLabel 6650 5000 3    50   Output ~ 0
-COL8
-Text GLabel 7300 5000 3    50   Output ~ 0
-COL9
-Text GLabel 7650 5000 3    50   Output ~ 0
-COL10
-Text GLabel 8300 5000 3    50   Output ~ 0
-COL11
-Text GLabel 8650 5000 3    50   Output ~ 0
-COL12
 $EndSCHEMATC
