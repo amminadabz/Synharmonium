@@ -5,6 +5,11 @@ Designed to be easy to use, and more importantly, easy to make good music with. 
 ## A Well-Tempered synthesizer.
 One of the goals of the Synharmonium is to create an instrument which uses an algorithmic implementation of just intonation. In other words, it tunes every note perfectly to the root of whatever chord is being played. Where other instruments simply have every note an equal distance apart and call it done ("Equal Temperament"), the Synharmonium will ensure they are always in perfect mathematical ratios to each other. But if you want to play _with_ those other instruments, you always have the option to disable this feature and return to the more common tuning.
 
+## Digital where it's needed, analogue where it counts.
+The Synharmonium uses a digital system to implement that complex tuning system. But once the computer has decided what frequencies are best, everything else is analogue, including the oscillators, envelope generators, and effects. This allows it to have the classic analogue sound of the Omnichord and others, with none of the downsides.
+
+But, if you want to use the Synharmonium's tuning technology with an external synthesizer, it also has full MIDI compatibility (with both DIN and USB).
+
 ## Free to build, modify, and hack
 The hardware and software are all open source. I intend to base the control and tuning systems on an Arduino, which is beginner-friendly and hackable by design. I haven't the means to build these on a large scale at the moment (though I've thought about selling an "official version" as a preassembled machine and a kit, lmk what y'all think), so for the time being I will just be providing the design for free. That means you get to build it (!) until I know what I'm doing.
 
