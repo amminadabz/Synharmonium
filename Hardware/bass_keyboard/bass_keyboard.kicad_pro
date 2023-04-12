@@ -424,8 +424,8 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
-      "specctra_dsn": "",
+      "netlist": "./",
+      "specctra_dsn": "bass_keyboard.dsn",
       "step": "",
       "vrml": ""
     },
