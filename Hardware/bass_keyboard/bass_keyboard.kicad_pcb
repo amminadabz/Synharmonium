@@ -45,6 +45,7 @@
 
   (setup
     (pad_to_mask_clearance 0)
+    (aux_axis_origin 26.19375 234.15625)
     (pcbplotparams
       (layerselection 0x00010fc_ffffffff)
       (plot_on_all_layers_selection 0x0000000_00000000)
@@ -15599,7 +15600,7 @@
     )
   )
   (gr_text "UIW" (at 282 233) (layer "F.SilkS") (tstamp f3d81fc0-b8df-4bf8-adb8-ca6bb8638257)
-    (effects (font (face "Playfair Display") (size 8.5 8.5) (thickness 0.15)) (justify left bottom))
+    (effects (font (face "Playfair Display") (size 8.5 8.5) (thickness 1.7) bold) (justify left bottom))
     (render_cache "UIW" 0
       (polygon
         (pts
