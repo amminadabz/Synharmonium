@@ -16,7 +16,7 @@ The hardware and software are all open source. I intend to base the control and 
 ## A work in progress.
 I'll be real with y'all: I don't know what I'm doing. Every part of this project is a skill that I am learning as I go. But I think this is a thing that deserves to exist, so I intend to let it. It will probably take some time, as I am currently pursuing degrees in Electrical Engineering and Computer Engineering, so I can only work on the Synharmonium in my free time.
 
-If you have skills that could help this process along, feel free to join the project. Do [send me an email](mailto:evanmobley29@gmail.com) first though, I'd like to know who I'm working with! 
+If you have skills that could help this process along, feel free to join the project. Do [send me an email](mailto:uiwmusic@proton.me) first though, I'd like to know who I'm working with! 
 
 Here goes nothin'!
 
