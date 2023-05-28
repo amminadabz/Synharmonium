@@ -1,0 +1,100 @@
+/* Colors */
+:root {
+--ink: #06080F;
+--red: #E23838;
+--orange: #F78200;
+--yellow: #FFB900;
+--green: #5EBD3E;
+--blue: #009CDF;
+--violet: #973999;
+}
+
+body, main, nav, footer, h1, figure, figcaption {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  max-width: 100%;
+  display: block;
+  color: var(--ink);
+  background-color: white;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "EB Garamond", serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+h2 {
+  text-align: center;
+  padding: 10px;
+  font-family: "Inter", sans-serif;
+}
+
+h1 {
+  font-size: 70px;
+  font-family: Playfair Display, serif;
+}
+
+p, li{
+  font-size: 17px;
+  font-family: "EB Garamond", serif;
+}
+
+section {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+}
+
+article {
+  flex: 1 0 300px;
+  margin: 10px;
+  padding: 10px;
+  text-align: left;
+}
+
+footer {
+  color: var(--ink);
+  padding: 10px;
+  text-align: center;
+}
+
+hr {
+  height: 1px;
+  background-color: var(--ink);
+  border: none;
+  width: 80%;
+}
+
+.topnav{
+  font-family: Playfair Display, serif;
+  text-decoration: none;
+}
+
+/* unvisited link */
+.link:link {
+  color: var(--red);
+  text-decoration: none;
+}
+
+/* visited link */
+.link:visited {
+  color: var(--ink);
+  text-decoration: none;
+}
+
+/* mouse over link */
+.link:hover {
+  color: var(--ink);
+  text-decoration: none;
+}
+
+/* selected link */
+.link:active {
+  color: var(--ink);
+  text-decoration: none;
+}
