@@ -132,6 +132,10 @@ hr {
   max-width: 80%;
 }
 
+.title {
+  margin: 0px;
+}
+
 #div1 {
   display: block;
   float: left;
