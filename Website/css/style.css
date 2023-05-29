@@ -46,7 +46,7 @@ h1 {
 figcaption{
   font-family: Playfair Display, serif;
   text-align: left;
-  padding-left: 70px;
+  padding-left: 10px;
 }
 
 p, li{
@@ -122,4 +122,16 @@ hr {
 .link:active {
   color: var(--ink);
   text-decoration: none;
+}
+
+#div1 {
+  display: block;
+  float: left;
+}
+
+#div2 {
+  margin-top: 20px;
+  display: block;
+  text-align: left;
+  float: left;
 }
