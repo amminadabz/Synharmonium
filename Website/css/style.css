@@ -27,20 +27,27 @@ body {
   line-height: 1.5;
 }
 
-h2 {
-  text-align: center;
-  padding: 10px;
-  font-size: 36px;
-  font-family: "Bebas Neue", sans-serif;
-}
-
-h1 {
+figure p {
   margin: 0;
   padding-left: 70px;
   max-width: 100%;
   text-align: left;
   font-size: 70px;
   font-family: Playfair Display, serif;
+}
+
+h1 {
+  text-align: center;
+  padding: 10px;
+  font-size: 50px;
+  font-family: "Bebas Neue", sans-serif;
+}
+
+h2 {
+  text-align: center;
+  padding: 10px;
+  font-size: 36px;
+  font-family: "Bebas Neue", sans-serif;
 }
 
 figcaption{
@@ -134,6 +141,7 @@ hr {
 
 .title {
   margin: 0px;
+  font-size: ;
 }
 
 #div1 {
