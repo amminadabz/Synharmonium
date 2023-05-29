@@ -73,6 +73,10 @@ footer {
   text-align: center;
 }
 
+footer p {
+  margin: 0;
+}
+
 hr {
   height: 1px;
   background-color: var(--ink);
@@ -124,13 +128,17 @@ hr {
   text-decoration: none;
 }
 
+.img_main {
+  max-width: 80%;
+}
+
 #div1 {
   display: block;
   float: left;
 }
 
 #div2 {
-  margin-top: 20px;
+  margin-top: 40px;
   display: block;
   text-align: left;
   float: left;
