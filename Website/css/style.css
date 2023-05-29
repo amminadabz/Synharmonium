@@ -128,6 +128,10 @@ hr {
   text-decoration: none;
 }
 
+.img_main {
+  max-width: 80%;
+}
+
 #div1 {
   display: block;
   float: left;
