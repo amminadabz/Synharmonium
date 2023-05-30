@@ -36,6 +36,10 @@ figure p {
   font-family: Playfair Display, serif;
 }
 
+article p {
+  margin-left: 16px;
+}
+
 h1 {
   text-align: center;
   padding: 10px;
