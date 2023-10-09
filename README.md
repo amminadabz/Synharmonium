@@ -1,4 +1,5 @@
 # The Synharmonium
+![](https://github.com/amminadabz/Synharmonium/blob/main/Sketches%20and%20Mockups/2_w.png)
 #### is a new kind of musical instrument.
 Designed to be easy to use, and more importantly, easy to make good music with. It uses the accordion's Stradella bass system to make it easy to play notes and chords that go well together, the Omnichord's strum plate to give texture to that harmony, and a piano keyboard for a familiar way to add a melody.
 
